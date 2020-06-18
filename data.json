@@ -1,0 +1,44 @@
+{
+    "models": [
+      {
+        "id": 1,
+        "name": "Rings"
+      },
+      {
+        "id": 2,
+        "name": "Earrings"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": 1,
+        "name": "Diamond Criss Cross Ring",
+        "modelId": 1
+      },
+      {
+        "id": 2,
+        "name": "Diamond Fashion Ring",
+        "modelId": 2
+      },
+      {
+        "id": 3,
+        "name": "Diamond Swirl Ring",
+        "modelId": 2
+      },
+      {
+        "id": 4,
+        "name": "Pearl Earrings",
+        "modelId": 2
+      },
+      {
+        "id": 5,
+        "name": "Ruby Heart Earrings",
+        "modelId": 1
+      },
+      {
+        "id": 6,
+        "name": "Diamond Fashion Earrings-9",
+        "modelId": 2
+      }
+    ]
+  }
